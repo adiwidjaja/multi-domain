@@ -7,7 +7,7 @@
  * @package  silverstripe-multi-domain
  * @author  Aaron Carlino <aaron@silverstripe.com>
  */
-class MultiDomain extends Object {
+class MultiDomain extends SS_Object {
 
 	/**
 	 * The key for the "primary" domain
